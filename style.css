@@ -1,2 +1,8 @@
-.macaco {color:171,003,003}
+.macaco {
+    background-color: #439243;
+    color: white;
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 30px;
+}
 
